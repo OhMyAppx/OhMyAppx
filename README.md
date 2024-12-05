@@ -1,4 +1,7 @@
-## 🚧 Under construction...
+# [OhMyApps](https://github.com/OhMyAppx/)
+
+## List of available projects:
+🧊 [OhMyTermux](https://github.com/OhMyAppx/OhMyTermux) : Ultra-customized installation of Termux, XFCE desktop and Debian PRoot.
 
 <!--
 **OhMyAppx/OhMyAppx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
